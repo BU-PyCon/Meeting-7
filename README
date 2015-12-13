@@ -1,0 +1,3 @@
+This directory should contain two programs, one called logicgate.py which is a basic ANN designed for simple logic gates. The other is for a more complicated ANN which classifies stellar spectra called SpectraClassifyAnn.py. This second program requires an input file called ANN_data.txt. This file is ~480 MB and so cannot be uploaded to github. However, you can download this file at the following link: https://drive.google.com/file/d/0B8d_HU3M_q-TdlZJQTFROTZTd00/view?usp=sharing
+
+Lastly, there is a powerpoint presentation which provides some information concerning neural networks and is hopefully a good resource for introducing one to ANNs.
